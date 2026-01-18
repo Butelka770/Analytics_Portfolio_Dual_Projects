@@ -399,4 +399,4 @@ Project_1_Employee_Attrition/
 
 ---
 
-**Part of:** [Analytics Portfolio - Dual Projects](README.md) 
+**Part of:** [Analytics Portfolio - Dual Projects](https://github.com/NadiaRozman/Analytics_Portfolio_Dual_Projects) 
