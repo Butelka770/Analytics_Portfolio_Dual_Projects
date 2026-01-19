@@ -261,12 +261,6 @@ Tokens:    ['hotel', 'absolutely', 'amazing', 'great', 'staff', 'beautiful', 'ro
 ![VADER Sentiment](images/2_sentiment_distribution.png)
 *Figure 1: VADER sentiment distribution showing strong positive skew*
 
-| Sentiment    | Count | Percentage |
-| ------------ | ----- | ---------- |
-| **Positive** | 7,478 | 73.8%      |
-| **Neutral**  | 1,345 | 13.3%      |
-| **Negative** | 1,176 | 11.6%      |
-
 **Interpretation:** Overall sentiment is strongly positive, indicating high customer satisfaction. However, the presence of a meaningful neutral and negative segment highlights opportunities for targeted service improvements, particularly around core guest experience factors.
 
 ---
