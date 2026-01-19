@@ -138,29 +138,29 @@ Analytics_Portfolio_Dual_Projects/
 
 **Interactive Tableau Dashboard:**
 
-![Tableau Dashboard](project-1-employee-attrition/images/3_tableau_main_dashboard.png)
+![Tableau Dashboard](Project_1_Employee_Attrition/images/3_tableau_main_dashboard.png)
 *Interactive dashboard showing 16.12% attrition rate and key risk factors*
 
 **Statistical Analysis:**
 
-![Income vs Tenure](project-1-employee-attrition/images/2_tenure_income_relationship.png)
+![Income vs Tenure](Project_1_Employee_Attrition/images/2_tenure_income_relationship.png)
 *Relationship between tenure, job level, and compensation revealing moderate correlation (r=0.51)*
 
 ### Project 2: Sentiment Analysis
 
 **Word Cloud Visualization:**
 
-![Word Cloud](project-2-sentiment-analysis/images/3_reviews_wordcloud.png)
+![Word Cloud](Project_2_Sentiment_Analysis/images/3_reviews_wordcloud.png)
 *Visual representation of most frequent terms in 10,000 customer reviews*
 
 **Sentiment Distribution:**
 
-![Sentiment Distribution](project-2-sentiment-analysis/images/2_sentiment_distribution.png)
+![Sentiment Distribution](Project_2_Sentiment_Analysis/images/2_sentiment_distribution.png)
 *VADER analysis showing 73.8% positive, 11.6% negative, 13.3% neutral sentiment*
 
 **Model Performance:**
 
-![Model Performance](project-2-sentiment-analysis/images/4_model_performance.png)
+![Model Performance](Project_2_Sentiment_Analysis/images/4_model_performance.png)
 *Neural network achieving 77.1% accuracy with strong performance on positive class*
 
 ## 🚀 Getting Started
